@@ -52,4 +52,4 @@
 
   https://enigmatic-basin-65394.herokuapp.com/
 
-![](../../../E:/GT-Coding-BootCamp/PWA-Text-Editor/Assets/localhost_3000_(Samsung%20Galaxy%20S8+).png)
+![Alt text](../../../E:/GT-Coding-BootCamp/PWA-Text-Editor/Assets/enigmatic-basin-65394.herokuapp.com_(Samsung%20Galaxy%20S8+).png)
